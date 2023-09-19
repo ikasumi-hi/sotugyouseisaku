@@ -1,0 +1,14 @@
+sotugyouseisaku/.vs
+sotugyouseisaku/*.csproj
+sotugyouseisaku/Library
+sotugyouseisaku/Temp/
+sotugyouseisaku/Library/
+sotugyouseisaku/Packages/
+sotugyouseisaku/obj/
+sotugyouseisaku/*.unitypackage
+sotugyouseisaku/*.sln
+Zsotugyouseisaku/UnityPackageManager
+sotugyouseisaku/*.collabignore
+sotugyouseisaku/AssetBundles/
+sotugyouseisaku/Logs
+EXE
